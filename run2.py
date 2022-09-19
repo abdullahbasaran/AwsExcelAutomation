@@ -10,4 +10,5 @@ os.system(command)
 # read json to data frame                                                                                                    
 df = pd.read_json("out22.json")
 print(df)
+
 df.to_excel("data.xlsx")
