@@ -1,0 +1,1637 @@
+[
+    {
+        "instance_id": "i-0c314bb8d4506e295",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-08662a47184e0b3b3",
+            "vol-07a18ce1652ff88f3",
+            "vol-067f292b0dc86ceb0"
+        ],
+        "p_ip": [
+            "172.31.67.68"
+        ],
+        "name": [
+            "jump-fizz-test"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-064e75073b8fb8d75",
+        "type": "r5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0f2911a1d0b9a521e",
+            "vol-0c28d13ada32564da"
+        ],
+        "p_ip": [
+            "172.31.65.237"
+        ],
+        "name": [
+            "bss-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-04a85cb12059d895b",
+        "type": "t3.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-069bf62bf82f32402",
+            "vol-0424a5deb55024a47"
+        ],
+        "p_ip": [
+            "172.31.65.21"
+        ],
+        "name": [
+            "cognitus-fizz-test1"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0572bba8b430d7475",
+        "type": "t3.medium",
+        "stats": "running",
+        "disks": [
+            "vol-0e3b471dcbf0fbd47",
+            "vol-003d7443d8696a691"
+        ],
+        "p_ip": [
+            "172.31.65.74"
+        ],
+        "name": [
+            "serdoo-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0fe4cbb6528151c14",
+        "type": "r4.large",
+        "stats": "running",
+        "disks": [
+            "vol-0bcf2aa4f873cc296",
+            "vol-03d2a0f318973aaec"
+        ],
+        "p_ip": [
+            "172.31.65.159"
+        ],
+        "name": [
+            "etl-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0987c280f4857cb6d",
+        "type": "t3.medium",
+        "stats": "running",
+        "disks": [
+            "vol-0e6fee4ec11e52bd8"
+        ],
+        "p_ip": [
+            "172.31.65.175"
+        ],
+        "name": [
+            "chatbot-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-045a319dcc72e60dd",
+        "type": "r5.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0fb1c0af62d7d7feb",
+            "vol-035e76a108da605c0"
+        ],
+        "p_ip": [
+            "172.31.65.125"
+        ],
+        "name": [
+            "om-fizz-test1"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0ac026077ebfabaca",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-05caf347be3c05342",
+            "vol-0c7c8064544410efb"
+        ],
+        "p_ip": [
+            "172.31.65.17"
+        ],
+        "name": [
+            "i2imediation-fizz-test1"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0f2ae964a4a7f3caa",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0871a4e6f3eedb693",
+            "vol-0e49ef5c395f841bb"
+        ],
+        "p_ip": [
+            "172.31.65.56"
+        ],
+        "name": [
+            "i2iprovisioning-fizz-test1"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0533ae59fab06cb7a",
+        "type": "m4.4xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-02d8942df26413361"
+        ],
+        "p_ip": [
+            "172.31.64.36",
+            "172.31.64.100",
+            "172.31.64.101",
+            "172.31.64.200",
+            "172.31.64.201",
+            "172.31.64.102",
+            "172.31.64.40",
+            "172.31.64.41",
+            "172.31.64.42",
+            "172.31.64.45",
+            "172.31.64.46",
+            "172.31.64.47",
+            "172.31.64.48",
+            "172.31.64.240",
+            "172.31.64.241",
+            "172.31.64.242",
+            "172.31.64.243",
+            "172.31.64.244",
+            "172.31.64.245",
+            "172.31.64.246",
+            "172.31.64.247",
+            "172.31.64.248",
+            "172.31.64.249",
+            "172.31.64.250",
+            "172.31.64.251"
+        ],
+        "name": [
+            "F5-fizz-test"
+        ],
+        "cpu": 8,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-025a3d28f9dd01e63",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-0b1e353f6c3cef7be"
+        ],
+        "p_ip": [
+            "172.31.67.5"
+        ],
+        "name": [
+            "mfa-fizz-test"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0e9b30d2e86ddacac",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-0d1b0bc894a4d1b62"
+        ],
+        "p_ip": [
+            "172.31.67.29"
+        ],
+        "name": [
+            "directorysrv-fizz-test"
+        ],
+        "cpu": 1,
+        "platform": "Windows"
+    },
+    {
+        "instance_id": "i-0e60d2eb1680d2e0d",
+        "type": "t3.medium",
+        "stats": "running",
+        "disks": [
+            "vol-0cce48e434be5dbab",
+            "vol-0cbfd53cd63a0506b"
+        ],
+        "p_ip": [
+            "172.31.65.115"
+        ],
+        "name": [
+            "mailcrawler-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-06926f1321eabb516",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-0afa10a81a072b37f"
+        ],
+        "p_ip": [
+            "172.31.64.154"
+        ],
+        "name": [
+            "web-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0adaa1c5c61ec969d",
+        "type": "t3.medium",
+        "stats": "running",
+        "disks": [
+            "vol-00ba402070c16b40b",
+            "vol-0e700b1c88471552f"
+        ],
+        "p_ip": [
+            "172.31.65.162"
+        ],
+        "name": [
+            "eca-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0e956ca20b1df2466",
+        "type": "t3.medium",
+        "stats": "running",
+        "disks": [
+            "vol-02b9cebe20b5fd3ad",
+            "vol-0b4b8de67a8882df9"
+        ],
+        "p_ip": [
+            "172.31.65.155"
+        ],
+        "name": [
+            "wso2proxy-fizz-test1"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0a7b4b7082d651e5a",
+        "type": "m5.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0e2a5b7aea61e8cb4",
+            "vol-07d0c59cb9820c910"
+        ],
+        "p_ip": [
+            "172.31.65.248"
+        ],
+        "name": [
+            "cognitus-fizz-device"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-08729a829d83b740d",
+        "type": "c5.large",
+        "stats": "running",
+        "disks": [
+            "vol-00bf6f852cf6153b8",
+            "vol-0a3f2f60e41d6265a"
+        ],
+        "p_ip": [
+            "172.31.65.225"
+        ],
+        "name": [
+            "serdoo-fizz-device"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0cc76d3e836695ca3",
+        "type": "r5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0703cee7ebe4186b0",
+            "vol-0efb6d80e39b01d12"
+        ],
+        "p_ip": [
+            "172.31.65.105"
+        ],
+        "name": [
+            "om-fizz-device"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-06b02751eb1ad3069",
+        "type": "r5.large",
+        "stats": "running",
+        "disks": [
+            "vol-004551fafbd1fb600",
+            "vol-03a569308dce2db95"
+        ],
+        "p_ip": [
+            "172.31.65.250"
+        ],
+        "name": [
+            "bss-fizz-device"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-05b369d3ecbd4b3f2",
+        "type": "t3.medium",
+        "stats": "running",
+        "disks": [
+            "vol-010ebcb553414e0ec"
+        ],
+        "p_ip": [
+            "172.31.67.112"
+        ],
+        "name": [
+            "cideployer-fizz-test"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-08dbad56759116b61",
+        "type": "t3.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-09144a926fa56a4bb",
+            "vol-0f5054e607e98a218"
+        ],
+        "p_ip": [
+            "172.31.65.242"
+        ],
+        "name": [
+            "oracleenterprise-fizz-test"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-08a1fe1a08332eaa7",
+        "type": "t3.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0405a4c52b5c00367",
+            "vol-0538cc60941967585"
+        ],
+        "p_ip": [
+            "172.31.65.187"
+        ],
+        "name": [
+            "oraclestandart-fizz-test"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0f76a1b29c3ac5e6d",
+        "type": "t3.2xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0a669c28735d4c251"
+        ],
+        "p_ip": [
+            "172.31.65.119"
+        ],
+        "name": [
+            "tableau-fizz-test1"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-02194ab82351246e3",
+        "type": "c5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0cb96a66e9bb65223",
+            "vol-0dae03e49254d0dec"
+        ],
+        "p_ip": [
+            "172.31.65.135"
+        ],
+        "name": [
+            "serdoo-fizz-test2"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0c7479300350229b2",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0391a41ecc1a1af5d",
+            "vol-0887d05787deb71a3"
+        ],
+        "p_ip": [
+            "172.31.65.238"
+        ],
+        "name": [
+            "i2iprovisioning-fizz-test2"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0d3bb306d42ce173f",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-028d1812d85cb2369",
+            "vol-07795223d63f117ed"
+        ],
+        "p_ip": [
+            "172.31.65.33"
+        ],
+        "name": [
+            "i2imediation-fizz-test2"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0fb1688320463dde4",
+        "type": "m5.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0a2ac52ccd9497549",
+            "vol-0b44fb996c90c5a55"
+        ],
+        "p_ip": [
+            "172.31.65.134"
+        ],
+        "name": [
+            "cognitus-fizz-test2"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0b0acb6468f4dc93b",
+        "type": "r5.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0dab0b2ddbbc5ea85",
+            "vol-03280527124fe36d2"
+        ],
+        "p_ip": [
+            "172.31.65.195"
+        ],
+        "name": [
+            "om-fizz-test2"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-07639e3af79468ba3",
+        "type": "c5.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-02f219f9a7823447b",
+            "vol-0c63ae15cdefafef0"
+        ],
+        "p_ip": [
+            "172.31.66.115"
+        ],
+        "name": [
+            "fizz-test-postgre-11x"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0de7cb607426697c3",
+        "type": "r5.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-01b6fe26001032fce",
+            "vol-0edd5a49bb23be398",
+            "vol-0561dc9ede4297f7d"
+        ],
+        "p_ip": [
+            "172.31.67.113"
+        ],
+        "name": [
+            "elk-fizz-test"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-03894920b7577d994",
+        "type": "r5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0a7e6fe335aa45351",
+            "vol-0b9f0284943c2e0e6"
+        ],
+        "p_ip": [
+            "172.31.65.41"
+        ],
+        "name": [
+            "bss-fizz-test2"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0e008c210e5b33983",
+        "type": "t2.small",
+        "stats": "running",
+        "disks": [
+            "vol-0c51f703e353521df"
+        ],
+        "p_ip": [
+            "172.31.67.121"
+        ],
+        "name": [
+            "fizz-test-mgmt-smtp"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-094c76c0d6e6c7ec9",
+        "type": "c5.18xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0c8c213d652e86cc4"
+        ],
+        "p_ip": [
+            "172.31.67.118"
+        ],
+        "name": [
+            "performance-test-windows-fizz-test"
+        ],
+        "cpu": 36,
+        "platform": "Windows"
+    },
+    {
+        "instance_id": "i-02d0dbb7fd94eb19c",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-00335236f3a51200c",
+            "vol-04793e8cbe19f6f1e"
+        ],
+        "p_ip": [
+            "10.217.86.4"
+        ],
+        "name": [
+            "i2iocs-fizz-test1-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-003addb938acfc9bc",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-083fa69d168a529f0",
+            "vol-07d0fe39d840848cb"
+        ],
+        "p_ip": [
+            "10.217.86.13"
+        ],
+        "name": [
+            "i2ibilling-fizz-test1-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0137089ebdbdc2da1",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0be866d0e41e527fd",
+            "vol-09233316d2da8a697"
+        ],
+        "p_ip": [
+            "10.217.86.10"
+        ],
+        "name": [
+            "i2iaom-fizz-test1-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-00756c9062fd12fcf",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-05eb16e536a4979a9",
+            "vol-06984d6aa1d568ef9"
+        ],
+        "p_ip": [
+            "10.217.86.20"
+        ],
+        "name": [
+            "i2iocs-fizz-test2-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-01536ebbfda1b13ce",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0ba0fc7c81b264e81",
+            "vol-0777fae6a98605613"
+        ],
+        "p_ip": [
+            "10.217.86.29"
+        ],
+        "name": [
+            "i2ibilling-fizz-test2-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0ee5f76ca08a70120",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-01768dcb4953bb844",
+            "vol-0409ba9af09b27dba"
+        ],
+        "p_ip": [
+            "10.217.86.27"
+        ],
+        "name": [
+            "i2iaom-fizz-test2-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-087b82659a927cebb",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-0f5979f40af3a9075"
+        ],
+        "p_ip": [
+            "172.31.64.231"
+        ],
+        "name": [
+            "web-fizz-test2"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-03ad8f96271395c84",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0f97b3889ab83697d",
+            "vol-0311894f2a1f3d428"
+        ],
+        "p_ip": [
+            "10.217.86.45"
+        ],
+        "name": [
+            "i2iaom-fizz-device-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0b4392f2973754dd3",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0022eec336c8790af",
+            "vol-068353f1b417c3d47"
+        ],
+        "p_ip": [
+            "10.217.86.46"
+        ],
+        "name": [
+            "i2ibilling-fizz-device-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0dbc19e7a7a7ab091",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0d1b57a504ce1bb9d",
+            "vol-02f1555318775cf65"
+        ],
+        "p_ip": [
+            "10.217.86.41"
+        ],
+        "name": [
+            "i2iocs-fizz-device-ocsvpc"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0d723f76ac6f00099",
+        "type": "t3.medium",
+        "stats": "running",
+        "disks": [
+            "vol-06286048c76a116e8",
+            "vol-05168f3b2e0934ed3"
+        ],
+        "p_ip": [
+            "172.31.66.32"
+        ],
+        "name": [
+            "eca-fizz-test1-test"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0f0575aad3eadd233",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0297f8b007d2b05df",
+            "vol-0a11301cc7f35cc31"
+        ],
+        "p_ip": [
+            "172.31.65.44"
+        ],
+        "name": [
+            "etl-webservice-fizz-test1"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-06de62e2e4deb232c",
+        "type": "c5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0e1c0b01df320eed3"
+        ],
+        "p_ip": [
+            "172.31.65.235"
+        ],
+        "name": [
+            "chatbot-fizz-test2"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0fa4b5fba7ee8da08",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-06899e385b64e67d7",
+            "vol-05a9b43fea6fddeae"
+        ],
+        "p_ip": [
+            "172.31.65.253"
+        ],
+        "name": [
+            "i2imediation-fizz-test4"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0a85e48d2af5d6b28",
+        "type": "m5.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-09e0bb69517707275",
+            "vol-04d935cb81d92f2ac"
+        ],
+        "p_ip": [
+            "172.31.65.161"
+        ],
+        "name": [
+            "cognitus-fizz-test4"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-030217dc88346c788",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0c8289cc21eb082ef",
+            "vol-05ed5acf856df8565"
+        ],
+        "p_ip": [
+            "10.217.86.52"
+        ],
+        "name": [
+            "i2iaom-fizz-test4"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-08802a54d2957f025",
+        "type": "r5.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-08d15bee7e2840140",
+            "vol-0e99fec259355024b"
+        ],
+        "p_ip": [
+            "172.31.65.158"
+        ],
+        "name": [
+            "om-fizz-test4"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-07eede0d2ff0bc4c9",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-0147b40aa2377a164"
+        ],
+        "p_ip": [
+            "172.31.64.205"
+        ],
+        "name": [
+            "web-fizz-test4"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0b83a0a0895a4702e",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0cb864bf72cff3268",
+            "vol-060c3a7989b73f405"
+        ],
+        "p_ip": [
+            "10.217.86.55"
+        ],
+        "name": [
+            "i2iocs-fizz-test4"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-09750b6046713b3fd",
+        "type": "c5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0d7a08cc603cb1e6d",
+            "vol-0bea9e2c42b4c5856"
+        ],
+        "p_ip": [
+            "172.31.65.171"
+        ],
+        "name": [
+            "serdoo-fizz-test4"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0dfe7a7a588972bb9",
+        "type": "r5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0b88eaf720062584a",
+            "vol-021cc3eceb972a808"
+        ],
+        "p_ip": [
+            "172.31.65.177"
+        ],
+        "name": [
+            "bss-fizz-test4"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0b1ced2a59730cfd9",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-06a6b4046b1235bcc",
+            "vol-019916bfb1bcfb269"
+        ],
+        "p_ip": [
+            "172.31.65.12"
+        ],
+        "name": [
+            "i2iprov-fizz-test4"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-068ea9703cc4f9839",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-039df308d12c146a2",
+            "vol-0458a13d66757bd3a"
+        ],
+        "p_ip": [
+            "10.217.86.62"
+        ],
+        "name": [
+            "i2ibilling-fizz-test4"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-035038571102aee9c",
+        "type": "m5.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0404964eaa627aace",
+            "vol-079aa46d87b0ef411"
+        ],
+        "p_ip": [
+            "172.31.65.7"
+        ],
+        "name": [
+            "oracleenterprise-fizz-test4"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0e569776f960b68e3",
+        "type": "t3.micro",
+        "stats": "stopped",
+        "disks": [
+            "vol-0fdf24dc508589d3a"
+        ],
+        "p_ip": [
+            "172.31.65.91"
+        ],
+        "name": [
+            "ansible-controller"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-08134c5ed52d6d4f7",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-010d04c3029011207"
+        ],
+        "p_ip": [
+            "172.31.64.151"
+        ],
+        "name": [
+            "web-fizz-test3"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-077f37454a88a1a87",
+        "type": "t3.small",
+        "stats": "stopped",
+        "disks": [
+            "vol-0e31218ef5b9cc649"
+        ],
+        "p_ip": [
+            "172.31.64.91"
+        ],
+        "name": [
+            "web-fizz-test6"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0c7c0f7ee0b05daba",
+        "type": "r5.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-09a2619ec87de3590",
+            "vol-00a0822d7571143ed"
+        ],
+        "p_ip": [
+            "172.31.65.38"
+        ],
+        "name": [
+            "om-fizz-test6"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-06a2bf673fbb45a41",
+        "type": "r4.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0ba151ae6ae4e4c0b",
+            "vol-02fe34516ded9fa5b"
+        ],
+        "p_ip": [
+            "10.217.86.84"
+        ],
+        "name": [
+            "i2iaom-fizz-test6"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0c5b2aa32020bd083",
+        "type": "r4.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-01001a172769e0471",
+            "vol-01d0b6ebb04510e5a"
+        ],
+        "p_ip": [
+            "172.31.65.97"
+        ],
+        "name": [
+            "i2iprov-fizz-test6"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-099f2d6d8fd89c395",
+        "type": "r4.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-025b9466aaeb0289d",
+            "vol-0bb69bd43f25fc0ec"
+        ],
+        "p_ip": [
+            "10.217.86.94"
+        ],
+        "name": [
+            "i2ibilling-fizz-test6"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0d6301b273f45d838",
+        "type": "r4.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0ca9a845bf17f8015",
+            "vol-0c14b7197cdf6176c"
+        ],
+        "p_ip": [
+            "172.31.65.71"
+        ],
+        "name": [
+            "i2imediation-fizz-test6"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0314517eb7e0ecabc",
+        "type": "c5.large",
+        "stats": "stopped",
+        "disks": [
+            "vol-078b3582fc52ec23a",
+            "vol-0a787cdfbb1f244c2"
+        ],
+        "p_ip": [
+            "172.31.65.83"
+        ],
+        "name": [
+            "serdoo-fizz-test6"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-08a653055b2928937",
+        "type": "m5.2xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0a5fe22395cdf289c",
+            "vol-005f4d06b791e1d49"
+        ],
+        "p_ip": [
+            "172.31.65.129"
+        ],
+        "name": [
+            "cognitus-fizz-test6"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0abfd7a1409adf309",
+        "type": "r4.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0e0783629cc1b4a71",
+            "vol-02fbf5707b36f50f6"
+        ],
+        "p_ip": [
+            "10.217.86.92"
+        ],
+        "name": [
+            "i2iocs-fizz-test6"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0c46ecf93d507c650",
+        "type": "r5.large",
+        "stats": "stopped",
+        "disks": [
+            "vol-03b8f91012c96122f",
+            "vol-0148d34c92d34e0fd"
+        ],
+        "p_ip": [
+            "172.31.65.204"
+        ],
+        "name": [
+            "bss-fizz-test6"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-047c287de9aaad6fa",
+        "type": "r4.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-0dcee63a2a32ddbfb",
+            "vol-05026363320e57146"
+        ],
+        "p_ip": [
+            "10.217.86.26"
+        ],
+        "name": [
+            "i2iscp-fizz-test2"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0c75332af1a1c0118",
+        "type": "m5.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-08877bcd87f882c5d",
+            "vol-0eec79051ce4f9daa"
+        ],
+        "p_ip": [
+            "172.31.65.185"
+        ],
+        "name": [
+            "bss-fizz-test1-2"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0e27f5af37ff0370a",
+        "type": "c5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0c466946c359b5a34",
+            "vol-0f1761cb335958a0f"
+        ],
+        "p_ip": [
+            "172.31.67.125"
+        ],
+        "name": [
+            "fortigate-fizz-test-byol"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-009c1b18c039bc847",
+        "type": "m5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0efe5ab520f8aeea0",
+            "vol-0e94a780ad12b5c53"
+        ],
+        "p_ip": [
+            "172.31.67.105"
+        ],
+        "name": [
+            "fortianalyzer-fizz-test"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-00294baed6091503c",
+        "type": "t2.micro",
+        "stats": "stopped",
+        "disks": [
+            "vol-07507b70817b25bf2"
+        ],
+        "p_ip": [
+            "175.25.64.74"
+        ],
+        "name": [
+            "terraform-test-controller"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-00253fdd4719d0773",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-0173955cc3a3b819b"
+        ],
+        "p_ip": [
+            "172.31.64.233"
+        ],
+        "name": [
+            "web-fizz-test7"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0703eb9e4c83af782",
+        "type": "m5.2xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-086a8dda22d34c007",
+            "vol-091e804cb8f0a0441"
+        ],
+        "p_ip": [
+            "172.31.65.101"
+        ],
+        "name": [
+            "cognitus-fizz-test7"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0a3d36803287e454c",
+        "type": "c5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0795526def9382b72",
+            "vol-0cd2f05c5a6b74177"
+        ],
+        "p_ip": [
+            "172.31.65.139"
+        ],
+        "name": [
+            "serdoo-fizz-test7"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-072cd62dc8129c27b",
+        "type": "r5.large",
+        "stats": "running",
+        "disks": [
+            "vol-0874c97a0e40ef785",
+            "vol-05bbaf97bc62b4159"
+        ],
+        "p_ip": [
+            "172.31.65.145"
+        ],
+        "name": [
+            "bss-fizz-test7"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-00b47f6cb94491437",
+        "type": "r5.xlarge",
+        "stats": "running",
+        "disks": [
+            "vol-019527565ab9e25c1",
+            "vol-03f33f35e1847d260"
+        ],
+        "p_ip": [
+            "172.31.65.43"
+        ],
+        "name": [
+            "om-fizz-test7"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-086ca96ac31374b75",
+        "type": "r5.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-00f72031b62a36a16",
+            "vol-0ad9c706c8ff3cb19"
+        ],
+        "p_ip": [
+            "172.31.65.40"
+        ],
+        "name": [
+            "om-fizz-test5"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0b28f1b35c8015f46",
+        "type": "c5.large",
+        "stats": "stopped",
+        "disks": [
+            "vol-0297350547a925d83",
+            "vol-0f5344087f0417a43"
+        ],
+        "p_ip": [
+            "172.31.65.131"
+        ],
+        "name": [
+            "serdoo-fizz-test5"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0369f625a6dcd54a0",
+        "type": "r5.large",
+        "stats": "stopped",
+        "disks": [
+            "vol-004dba8493206cfa3",
+            "vol-05b101fcc126942d4"
+        ],
+        "p_ip": [
+            "172.31.65.251"
+        ],
+        "name": [
+            "bss-fizz-test5"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0bf35c3c645960f51",
+        "type": "t3.small",
+        "stats": "stopped",
+        "disks": [
+            "vol-0d62f4e1a3fd919e3"
+        ],
+        "p_ip": [
+            "172.31.64.49"
+        ],
+        "name": [
+            "web-fizz-test5"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0b9b70b008d07a645",
+        "type": "m5.2xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0722bd9ffb839c36d",
+            "vol-0711814757b3d354b"
+        ],
+        "p_ip": [
+            "172.31.65.239"
+        ],
+        "name": [
+            "cognitus-fizz-test5"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-07bfd19e664371899",
+        "type": "t4g.medium",
+        "stats": "running",
+        "disks": [
+            "vol-071bbfc3bf1d77702",
+            "vol-018568b3b2f82b908"
+        ],
+        "p_ip": [
+            "172.31.65.6"
+        ],
+        "name": [
+            "fizz-test-api-automation"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-02ba2a4b643618603",
+        "type": "r4.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-09526cfe4f50c24f3",
+            "vol-0a44f2d48b082d555"
+        ],
+        "p_ip": [
+            "172.31.65.194"
+        ],
+        "name": [
+            "aombackup2"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0ff1c914530d5eefd",
+        "type": "t4g.large",
+        "stats": "running",
+        "disks": [
+            "vol-0590ff4f9aab80c25",
+            "vol-049727d8e806ae798"
+        ],
+        "p_ip": [
+            "172.31.65.243"
+        ],
+        "name": [
+            "fizz-test2-camunda-new"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-02668061b3dca4c9c",
+        "type": "t3.small",
+        "stats": "running",
+        "disks": [
+            "vol-077696d24125ac53e",
+            "vol-085265e92cab4cf96"
+        ],
+        "p_ip": [
+            "172.31.65.109"
+        ],
+        "name": [
+            "fizz-test2-activemq"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-018082fd8151c1cfc",
+        "type": "t3.2xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-033a7aea31afdcb26",
+            "vol-0cea9de396d89563e"
+        ],
+        "p_ip": [
+            "172.31.65.113"
+        ],
+        "name": [
+            "cognitus-fizz-test8"
+        ],
+        "cpu": 4,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-05666f72f074a2b75",
+        "type": "t3.small",
+        "stats": "stopped",
+        "disks": [
+            "vol-0b0576dfaa4041318"
+        ],
+        "p_ip": [
+            "172.31.64.199"
+        ],
+        "name": [
+            "web-fizz-test8"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0c936a94797f17996",
+        "type": "t3.medium",
+        "stats": "stopped",
+        "disks": [
+            "vol-04056a7174957f160",
+            "vol-0d670b2667dad07c3"
+        ],
+        "p_ip": [
+            "172.31.65.102"
+        ],
+        "name": [
+            "serdoo-fizz-test8"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0642697bbae47ef87",
+        "type": "r5.xlarge",
+        "stats": "stopped",
+        "disks": [
+            "vol-0f9ee96ddf359a684",
+            "vol-04452af39fc59033d"
+        ],
+        "p_ip": [
+            "172.31.65.100"
+        ],
+        "name": [
+            "om-fizz-test8"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-070f920b40fee1a3b",
+        "type": "r5.large",
+        "stats": "stopped",
+        "disks": [
+            "vol-0a25255591593b55a",
+            "vol-0206e598abbee7667"
+        ],
+        "p_ip": [
+            "172.31.65.111"
+        ],
+        "name": [
+            "bss-fizz-test8"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-02cbb714f9c9b0793",
+        "type": "r4.xlarge",
+        "stats": "stopped",
+        "disks": [],
+        "p_ip": [
+            "172.31.65.114"
+        ],
+        "name": [
+            " cloudteam-fizz-test-backup"
+        ],
+        "cpu": 2,
+        "platform": "Linux/UNIX"
+    },
+    {
+        "instance_id": "i-0be2fcb3cc7fe57ab",
+        "type": "t3.micro",
+        "stats": "stopped",
+        "disks": [
+            "vol-06d91f6f666ff5954"
+        ],
+        "p_ip": [
+            "172.31.65.227"
+        ],
+        "name": [
+            " cloudteam-fizz-test-new-backup-8gb"
+        ],
+        "cpu": 1,
+        "platform": "Linux/UNIX"
+    }
+]
