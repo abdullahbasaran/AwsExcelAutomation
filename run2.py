@@ -12,5 +12,4 @@ df = pd.read_json("out22.json")
 print(df)
 
 
-
 df.to_excel("data.xlsx")
